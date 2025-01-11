@@ -23,7 +23,7 @@ git clone https://github.com/nahuelPanigo/rag_papers.git
 
 2. Install the required dependencies:
 
-** The requirements included sentence-transformers if you want to use "models/text-embedding-004" from ai studio you can delete or comment this line from requirements**
+**The requirements included sentence-transformers if you want to use "models/text-embedding-004" from ai studio you can delete or comment this line from requirements**
 
 ```bash
 pip install -r requirements.txt
@@ -48,7 +48,7 @@ After running you have to load the papers in papers folder and the metadata, for
 
 The first time you run the project, it will create the database and the embeddings for the papers, so it will take some time. for this execute:
 ```bash
-    charge_db.py
+   python charge_db.py
 ```
 After that you can run the project:
 
