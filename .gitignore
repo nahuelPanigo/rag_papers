@@ -1,0 +1,7 @@
+.env
+db/*
+!db/.gitkeep
+papers/*
+!papers/.gitkeep
+!papers/metadata_ejemplo.json
+__pycache__/

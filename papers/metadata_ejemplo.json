@@ -1,0 +1,22 @@
+{
+    "pdf1.pdf": {
+        "title": "Diseño y desarrollo de aplicación móvil para la clasificación de flora nativa chilena utilizando redes neuronales convolucionales",
+        "authors": "revista de chile",
+        "year": 2021
+    },
+    "pdf2.pdf": {
+        "title": "Aplicación de redes neuronales convolucionales profundas al diagnóstico asistido de la enfermedad de Alzheimer",
+        "authors": "Ángel de la Vega Jiménez",
+        "year": 2021
+    },
+    "pdf3.pdf": {
+        "title": "REDES NEURONALES CONVOLUCIONALES Y APLICACIONES",
+        "authors": "NATALIA CASADO BEINAT",
+        "year": 2022
+    },
+    "pdf4.pdf": {
+        "title": "Redes neuronales convolucionales aplicadas a la identificación y medición automatizadas",
+        "authors": "Javier Francés Falip",
+        "year": 2020
+    }
+}

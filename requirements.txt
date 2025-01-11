@@ -1,0 +1,5 @@
+genai
+dotenv
+chromadb
+llama-index
+sentence-transformers
